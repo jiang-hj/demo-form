@@ -9,3 +9,9 @@ export default {
   name: 'App'
 }
 </script>
+
+<style>
+.svg-icon {
+  display: initial;
+}
+</style>
